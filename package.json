@@ -1,5 +1,6 @@
 {
   "name": "starwars",
+  "description": "Hola esto es un repo con react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
